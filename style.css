@@ -1,0 +1,47 @@
+@charset "utf-8";
+body {
+	margin: 0 auto;
+	width: 70%;
+	background-color: #3ea9e5;
+	
+}
+table  {
+    background-color: #F8F8F8;
+}
+.trai {
+    width: 30%;
+    text-align: right;
+   
+}
+.phai {
+    width: 70%;
+	padding: 5px;
+}
+#dong1 {
+    background-image: url(Images/logo_bg.gif);
+}
+#dong1 .phai img {
+    float: right;
+}
+hr {
+    background-color: #FF0004;
+    width: 50%;
+    height: 2px;
+}
+#dong2 {
+    text-align: center;
+}
+#dong1 .trai {
+    float: left;
+}
+.trai {
+}
+#SoThich.trai {
+    float: right;
+
+
+
+}
+.Main-YeuCau #Yeucau {
+    float: right;
+}
